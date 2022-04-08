@@ -1,0 +1,101 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Event{
+
+    width: 400px;
+    margin: auto;
+}
+.From{
+
+    width: 700px;
+    margin: auto;
+}
+
+.Container{
+    padding: 50px 30px;
+    width: 700px;
+    margin: auto;
+    border: 1px solid #222;
+    margin-top: 100px;
+    /* padding-left: 20px; */
+}
+
+.Bio{
+    padding-bottom: 20px;
+}
+
+.Bio h3{
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.Bio p{
+    font-size: 20px;
+    color: #000;
+    font-weight: 500;
+}
+
+.Skill{
+    padding-bottom: 20px;
+}
+
+
+.Skill ul{
+    list-style-type: none;
+    margin-top: 20px;
+}
+.Skill ul li{
+    display: inline-block;
+    margin-left: 15px;
+    background-color: #ddd;
+    color: #000;
+    padding: 3px 15px;
+    outline: none;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 3px;
+}
+
+
+
+.Link ul{
+    list-style-type: none;
+    margin-top: 20px;
+}
+.Link ul li{
+    display: inline-block;
+    margin-left: 15px;
+    outline: none;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 3px;
+}
+
+.Link ul li a{
+    text-decoration: none;
+}
+.Link ul li a:hover{
+    color: goldenrod;
+}
+
+.Btn{
+    padding: 5px 35px;
+    border: 1px solid #000;
+    margin-bottom: 30px;
+}
+.Btn-b{
+    padding: 5px 35px;
+    border: 1px solid #000;
+    margin-right: 10px;
+}
+
+.Text{
+    font-size: 35px;
+    columns: #222;
+    margin: 0 20px;
+    font-weight: 600;
+}

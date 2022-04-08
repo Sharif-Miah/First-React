@@ -1,0 +1,14 @@
+.Head{
+    text-align: center;
+}
+
+.Btn-data{
+    text-align: left;
+}
+.Gender{
+    text-align: left;
+    margin-bottom: 20px;
+}
+.Gender input{
+    margin: 5px;
+}
